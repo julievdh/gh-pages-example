@@ -7,6 +7,6 @@ title: Example
 
 ## News
 
-- Some event
+- We're in Espoo!
 - Another exciting event
 - More news
